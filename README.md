@@ -61,4 +61,4 @@ Important note: if you stop your ipfs daemon, your json file will probably no lo
 
 * Finally you can fetch with javascript the Json and include it in a web page like this:
 
-wget https://gateway.ipfs.io/ipfs/bafybeihjagcm6lk3uuflbqhsm6z37qmfvwxegcprbqr5m7vvhz7zl53uee
+wget https://gateway.ipfs.io/ipfs/bafybeigr37tqjryxwfoikrmj76vnx33awa5yjfuklmfwcwl3hff5w4awgu
