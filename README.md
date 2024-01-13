@@ -66,6 +66,6 @@ or using an IPFS client:
 
 ipfs get bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae
 
-or paste the following address into web browser Brave:
+or paste the following CID into web browser Brave:
 
 ipfs://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae
