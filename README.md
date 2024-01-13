@@ -62,10 +62,10 @@ Important note: if you stop your ipfs daemon, your json file will probably no lo
 
 wget https://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae.ipfs.4everland.io
 
-or using an IPFS client
+or using an IPFS client:
 
 ipfs get bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae
 
-or with web browser Brave:
+or paste the following address into web browser Brave:
 
-[ipfs://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae](ipfs://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae)
+ipfs://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae
