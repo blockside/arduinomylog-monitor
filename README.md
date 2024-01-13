@@ -3,7 +3,7 @@ ArduinoMyLog-Monitor
 
 ## Project ArduinoMyLog-Monitor
 
-This project will monitor blockchain data using ipfs protocol. It refers to the previous work present under repository ArduinoMyLog, allowing you to monitor the data of temperature and humidity using IPFS (InterPlanetary File System) protocol.
+This project will monitor blockchain data using ipfs protocol. It refers to the previous work present under repository ArduinoMyLog2, allowing you to monitor the data of temperature and humidity using IPFS (InterPlanetary File System) protocol.
 
 
 ## Quick links and licensing references
