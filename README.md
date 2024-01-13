@@ -55,7 +55,7 @@ $ ipfs cat [YOUR_CID_HERE]
 
 wget https://gateway.ipfs.io/ipfs/[YOUR_CID_HERE]
 
-Important note: if you stop your ipfs daemon, your json file will probably no longer be accessible. You can use an ipfs dns to keep the json file updated despite your repeated uploads.
+Important note: if you stop your ipfs daemon, your json file will probably no longer be accessible. You can use an ipfs dns to keep the json file updated into a webpage despite your repeated uploads.
 
 
 * Finally check an example here:
