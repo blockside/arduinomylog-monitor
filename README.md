@@ -51,13 +51,13 @@ added [YOUR_CID_HERE] temp_humi.json
 
 $ ipfs cat [YOUR_CID_HERE]
 
-* You can verify it also using curl:
+* You can verify it:
 
-https://gateway.ipfs.io/ipfs/[YOUR_CID_HERE]
+wget https://gateway.ipfs.io/ipfs/[YOUR_CID_HERE]
 
 Important note: if you stop your ipfs daemon, your json file will probably no longer be accessible. You can use an ipfs dns to keep the json file updated despite your repeated uploads.
 
 
-* Finally check it:
+* Finally check an example here:
 
 wget https://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae.ipfs.4everland.io
