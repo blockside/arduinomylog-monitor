@@ -3,15 +3,14 @@ ArduinoMyLog-Monitor
 
 ## Project ArduinoMyLog-Monitor
 
-This project will monitor blockchain data into distribuited web. It refers to the previous work present under repository ArduinoMyLog (fetch data from the blockchain), allowing you to monitor the results using IPFS (InterPlanetary File System) protocol and also on a Web page that updates automatically every hour.
+This project will monitor blockchain data using ipfs protocol. It refers to the previous work present under repository ArduinoMyLog, allowing you to monitor the data of temperature and humidity using IPFS (InterPlanetary File System) protocol.
 
 
 ## Quick links and licensing references
 
-- [IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.](https://ipfs.io)
-- [EOSIO is a next-generation, open-source blockchain protocol with industry-leading transaction speed and flexible utility.](https://github.com/EOSIO)
-- [EOS Jungle3.0 Testnet is blockchain based on EOSIO, developed and maintained by an excellent group of developers.](https://jungletestnet.io)
-
+- [IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.](https://ipfs.tech)
+- [Antelope is an open framework for building next-generation web3 products and services](https://github.com/AntelopeIO)
+- [Proton Blockchain is a fast scalable, layer one blockchain](https://xprnetwork.org)
 
 
 ## Notice
@@ -22,7 +21,7 @@ THE SOFTWARE IS PROVIDED "AS IS". See license file LICENSE.md for details.
 
 ## Quick start
 
-* We assume that the previous project "ArduinoMyLog" was followed correctly, and that your IPFS daemon is running. Check it:
+* We assume that the previous project "ArduinoMyLog2" was followed correctly, and that your IPFS daemon is running. Check it:
 
 $ ipfs --version
 
@@ -59,6 +58,6 @@ https://gateway.ipfs.io/ipfs/[YOUR_CID_HERE]
 Important note: if you stop your ipfs daemon, your json file will probably no longer be accessible. You can use an ipfs dns to keep the json file updated despite your repeated uploads.
 
 
-* Finally you can fetch with javascript the Json and include it in a web page like this:
+* Finally check it:
 
-wget https://gateway.ipfs.io/ipfs/bafybeigr37tqjryxwfoikrmj76vnx33awa5yjfuklmfwcwl3hff5w4awgu
+wget https://bafkreidh7un4mki5z6qkx4txmfzel52machdar2mxfhradf5noabperqae.ipfs.4everland.io
